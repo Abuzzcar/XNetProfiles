@@ -24,6 +24,10 @@ Developed with [nxdk](https://github.com/XboxDev/nxdk).
 - **Y**: Delete selected profile / increment down.
 - **START**: Save profile (when editting a profile).
 
+## Demonstration
+
+https://github.com/user-attachments/assets/b764ae76-7dc9-4a3b-913b-2bd726299cd7
+
 ## Setup & Installation
 
 ### Prerequisites
