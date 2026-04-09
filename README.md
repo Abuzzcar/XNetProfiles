@@ -46,11 +46,11 @@ https://github.com/user-attachments/assets/b764ae76-7dc9-4a3b-913b-2bd726299cd7
 ```bash
 NXDK_DIR ?= /home/USER/nxdk
 ```
-5. Edit `make.sh` so that it contains your path to the activate file
+5. Edit `make.sh` so that it contains your path to the activate file (refer to [this:](https://github.com/XboxDev/nxdk/wiki/Build-a-Sample))
 ```bash 
 eval "$(/home/USER/nxdk/bin/activate -s)"
 ```
-6. Run `make.sh`, and customize its path to activate nxdk. (refer to [this:](https://github.com/XboxDev/nxdk/wiki/Build-a-Sample))
+6. Run `make.sh`
 7. The output `default.xbe` will be in the `bin/` directory, put this into your apps directory on your custom dashboard.
 
 ### Installation
